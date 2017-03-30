@@ -1,4 +1,1 @@
-﻿#####################
-# Projet versionné  #
-# Ant1              # 
-#####################
+Modifié depuis GitHub
