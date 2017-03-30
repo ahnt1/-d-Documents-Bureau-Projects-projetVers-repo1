@@ -1,1 +1,4 @@
-Ce repo est géré en version par Git.
+﻿#####################
+# Projet versionné  #
+# Ant1              # 
+#####################
